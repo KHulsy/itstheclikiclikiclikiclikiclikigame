@@ -5,11 +5,7 @@ You can use the [editor on GitHub](https://github.com/KHulsy/itstheclikiclikicli
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Abstract
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+I have put together many a file for this app, and I intend to get this baby working.
 
 # Programs Used
     1. React
@@ -26,25 +22,18 @@ Syntax highlighted code block
     12. JSX
     13. Local host
 ## Problems That Came Up
+Linking sites together. This will be more fleshed-out tomorrow.
 ### Acknowledgments
 
 1. Dan
 2. Caroline
 3. Frank
 4. Gwennie
-5.
-6.
 
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KHulsy/itstheclikiclikiclikiclikiclikigame/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+.
 
 ####Contact
 Kaitlin Elisabeth Hulsy
