@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/KHulsy/itstheclikiclikicli
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Abstract
-I have put together many a file for this app, and I intend to get this baby working.
+"I have put together many a file for this app, and I intend to get this baby working."-Me ten hours ago. The lady has jokes. I realize that I just used a FB template to create a card. I can code a Facebook profile. So, that's creepy. I used so many things to try to create the cards. I installed many things. I chatted with the local host, but the local host did not chat back.I looked through React Activity #24 like four days ago, and did coding SuperMarketSweep/Hoarders. I inspected(or studied) the code of the clicky game. I have no cards. I will have them some day. Thank you. 
 
 # Programs Used
     1. React
@@ -15,14 +15,10 @@ I have put together many a file for this app, and I intend to get this baby work
     5. Medium
     6. POST
     7. Profiler API-React
-    8.Web Hooks
-    9. JSON
-    10. Normalize
-    11. React Card Flip
     12. JSX
     13. Local host
 ## Problems That Came Up
-Linking sites together. This will be more fleshed-out tomorrow.
+I can't make the cards today. Local host was not interested in chatting. I thought I had this about a thousand times. I do have a lovely array of files. Geh.
 ### Acknowledgments
 
 1. Dan
@@ -36,5 +32,9 @@ Linking sites together. This will be more fleshed-out tomorrow.
 .
 
 ####Contact
+    8.Web Hooks
+    9. JSON
+    10. Normalize
+    11. React Card Flip
 Kaitlin Elisabeth Hulsy
 661-809-1284.
