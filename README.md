@@ -15,7 +15,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     5. Medium
     6. POST
     7. Profiler API-React
-    12. JSX
+    8.Web Hooks
+    9. JSON
+    10. Normalize
+    11. React Card Flip    12. JSX
     13. Local host
 ## Problems That Came Up
 I can't make the cards today. Local host was not interested in chatting. I thought I had this about a thousand times. I do have a lovely array of files. Geh.
@@ -32,9 +35,6 @@ I can't make the cards today. Local host was not interested in chatting. I thoug
 .
 
 ####Contact
-    8.Web Hooks
-    9. JSON
-    10. Normalize
-    11. React Card Flip
+    
 Kaitlin Elisabeth Hulsy
 661-809-1284.
